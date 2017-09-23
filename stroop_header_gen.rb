@@ -2,7 +2,7 @@
 
 headr = ''
 subj = "subject"
-sess = "subject"
+sess = "session"
 
 headr += "#{subj},#{sess},"
 
