@@ -8,9 +8,9 @@ unless File.file?('stroop_ruby_out.csv')
   
   headr += "#{subj},#{sess},"
   
-  192.times do 
+  192.times do |x|
     ['rtt','acc','cycle'].each do |type|
-  	  headr += "#{type.strip},"
+  	  headr += "#{type.strip} #{x+1},"
     end
   end
   
