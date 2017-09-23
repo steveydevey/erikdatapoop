@@ -25,10 +25,10 @@ if File.file?(workingfile)
   
   bigpull.each do |x| 
   # skip the entries that say "TrialProc" etc, because they don't actually contain data
-    #unless x =~ /TrialProc/ 
+    unless x =~ /Trials/ 
       # append data to the end of this record, separated by commas
       datarecord += "#{x.split.last},"
-    #end
+    end
   end 
 
   # add a newline at the end of this record, so the next won't have to know to do it

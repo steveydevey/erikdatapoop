@@ -8,8 +8,8 @@ unless File.file?('nback_ruby_out.csv')
   
   headr += "#{subj},#{sess},"
   
-  192.times do 
-    ['rtt','acc','cycle'].each do |type|
+  60.times do 
+    ['score','imagert'].each do |type|
   	  headr += "#{type.strip},"
     end
   end
