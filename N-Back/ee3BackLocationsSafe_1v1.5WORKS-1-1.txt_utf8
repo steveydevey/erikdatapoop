@@ -1,0 +1,265 @@
+﻿*** Header Start ***
+VersionPersist: 1
+LevelName: Session
+LevelName: Block
+LevelName: Trial
+LevelName: SubTrial
+LevelName: LogLevel5
+LevelName: LogLevel6
+LevelName: LogLevel7
+LevelName: LogLevel8
+LevelName: LogLevel9
+LevelName: LogLevel10
+Experiment: ee3BackLocationsSafe_1v1.5WORKS
+SessionDate: 07-18-2017
+SessionTime: 20:24:00
+SessionStartDateTimeUtc: 
+Subject: 1
+Session: 1
+Age: 0
+Sex: unknown
+Handedness: unknown
+ResearcherID: 1
+DataFile.Basename: ee3BackLocationsSafe_1v1.5WORKS-1-1
+RandomSeed: 1737442762
+Group: 1
+Display.RefreshRate: 60.017
+*** Header End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 1
+		Type: Spatial
+		Display: bu1
+		CorrectAnswer: .
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\bu1.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 1
+		PreITI.OnsetTime: 21765
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 22041
+		Image.OnsetTime: 22382
+		Image.Duration: 500
+		Image.OffsetTime: 22716
+		Image.RTTime: 23038
+		Image.ACC: 0
+		Image.RT: 656
+		Image.RESP: 1
+		Image.CRESP: -
+		Image.Tag: bu1s
+		PostITI.OnsetTime: 22882
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 24716
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 25081
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 25216
+		SendCorrect.Tag: ____
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 2
+		Type: Spatial
+		Display: cu5
+		CorrectAnswer: .
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\cu5.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 2
+		PreITI.OnsetTime: 25481
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 25741
+		Image.OnsetTime: 26081
+		Image.Duration: 500
+		Image.OffsetTime: 26416
+		Image.RTTime: 26750
+		Image.ACC: 0
+		Image.RT: 669
+		Image.RESP: 1
+		Image.CRESP: -
+		Image.Tag: cu5s
+		PostITI.OnsetTime: 26581
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 28416
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 28780
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 28916
+		SendCorrect.Tag: ____
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 3
+		Type: Spatial
+		Display: gl3
+		CorrectAnswer: .
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\gl3.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 3
+		PreITI.OnsetTime: 29180
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 29441
+		Image.OnsetTime: 29780
+		Image.Duration: 500
+		Image.OffsetTime: 30116
+		Image.RTTime: 30590
+		Image.ACC: 0
+		Image.RT: 810
+		Image.RESP: 1
+		Image.CRESP: -
+		Image.Tag: gl3s
+		PostITI.OnsetTime: 30280
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 32116
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 32479
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 32616
+		SendCorrect.Tag: ____
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 4
+		Type: Spatial
+		Display: jl2
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\jl2.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 4
+		PreITI.OnsetTime: 32879
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 33141
+		Image.OnsetTime: 33479
+		Image.Duration: 500
+		Image.OffsetTime: 33816
+		Image.RTTime: 34318
+		Image.ACC: 0
+		Image.RT: 839
+		Image.RESP: 1
+		Image.CRESP: 2
+		Image.Tag: jl2s
+		PostITI.OnsetTime: 33979
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 35816
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 36178
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 36316
+		SendCorrect.Tag: 21_n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 5
+		Type: Spatial
+		Display: ku5
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ku5.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 5
+		PreITI.OnsetTime: 36578
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 36841
+		Image.OnsetTime: 37178
+		Image.Duration: 500
+		Image.OffsetTime: 37516
+		Image.RTTime: 37678
+		Image.ACC: 1
+		Image.RT: 500
+		Image.RESP: 1
+		Image.CRESP: 1
+		Image.Tag: ku5s
+		PostITI.OnsetTime: 37678
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 39516
+		Shock: N/A
+		Score: 1
+		SendCorrect.OnsetTime: 39877
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 40016
+		SendCorrect.Tag: 11_y
+		*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Main: 1
+	Procedure: MainProc
+	Trials: 5
+	MatchPercent: .5
+	Type: Spatial
+	nBack: 3
+	ZeroCorrect: du4
+	Letters: 1
+	Value: u
+	Positions: 1
+	LetterCase: 1
+	Main.Cycle: 1
+	Main.Sample: 1
+	Running: Main
+	LoadTime.OnsetTime: 18783
+	LoadTime.Duration: 3000
+	LoadTime.OffsetTime: 21566
+	*** LogFrame End ***
+Level: 1
+*** LogFrame Start ***
+Experiment: ee3BackLocationsSafe_1v1.5WORKS
+SessionDate: 07-18-2017
+SessionTime: 20:24:00
+SessionStartDateTimeUtc: 
+Subject: 1
+Session: 1
+Age: 0
+Sex: unknown
+Handedness: unknown
+ResearcherID: 1
+DataFile.Basename: ee3BackLocationsSafe_1v1.5WORKS-1-1
+RandomSeed: 1737442762
+Group: 1
+Display.RefreshRate: 60.017
+PostITITime: 2200
+Clock.Information: <?xml version="1.0"?>\n<Clock xmlns:dt="urn:schemas-microsoft-com:datatypes"><Description dt:dt="string">E-Prime Primary Realtime Clock</Description><StartTime><Timestamp dt:dt="int">0</Timestamp><DateUtc dt:dt="string">2017-07-19T00:24:00Z</DateUtc></StartTime><FrequencyChanges><FrequencyChange><Frequency dt:dt="r8">2825527</Frequency><Timestamp dt:dt="r8">5559424566166</Timestamp><Current dt:dt="r8">0</Current><DateUtc dt:dt="string">2017-07-19T00:24:00Z</DateUtc></FrequencyChange></FrequencyChanges></Clock>\n
+StudioVersion: 2.0.10.252
+RuntimeVersion: 2.0.10.356
+RuntimeVersionExpected: 2.0.10.356
+RuntimeCapabilities: Professional
+ExperimentVersion: 1.0.0.37
+PreITITime: 600
+Path: ImageFiles\
+SendCorrectTime: 400
+Instructions.OffsetTime: 18766
+*** LogFrame End ***

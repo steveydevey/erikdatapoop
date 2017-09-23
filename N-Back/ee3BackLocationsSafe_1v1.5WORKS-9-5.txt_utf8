@@ -1,0 +1,2355 @@
+﻿*** Header Start ***
+VersionPersist: 1
+LevelName: Session
+LevelName: Block
+LevelName: Trial
+LevelName: SubTrial
+LevelName: LogLevel5
+LevelName: LogLevel6
+LevelName: LogLevel7
+LevelName: LogLevel8
+LevelName: LogLevel9
+LevelName: LogLevel10
+Experiment: ee3BackLocationsSafe_1v1.5WORKS
+SessionDate: 09-11-2017
+SessionTime: 15:16:35
+SessionStartDateTimeUtc: 9/11/2017 7:16:35 PM
+Subject: 9
+Session: 5
+Age: 0
+Sex: unknown
+Handedness: unknown
+ResearcherID: 1
+DataFile.Basename: ee3BackLocationsSafe_1v1.5WORKS-9-5
+RandomSeed: 1344274824
+Group: 1
+Display.RefreshRate: 60.018
+*** Header End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 1
+		Type: Spatial
+		Display: du2
+		CorrectAnswer: .
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\du2.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 1
+		PreITI.OnsetTime: 45311
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 45580
+		Image.OnsetTime: 45911
+		Image.Duration: 500
+		Image.OffsetTime: 46255
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: -
+		Image.Tag: du2s
+		PostITI.OnsetTime: 46410
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 48255
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 48610
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 48755
+		SendCorrect.Tag: ____
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 2
+		Type: Spatial
+		Display: dl5
+		CorrectAnswer: .
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\dl5.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 2
+		PreITI.OnsetTime: 49010
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 49280
+		Image.OnsetTime: 49610
+		Image.Duration: 500
+		Image.OffsetTime: 49955
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: -
+		Image.Tag: dl5s
+		PostITI.OnsetTime: 50109
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 51955
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 52309
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 52455
+		SendCorrect.Tag: ____
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 3
+		Type: Spatial
+		Display: bl3
+		CorrectAnswer: .
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\bl3.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 3
+		PreITI.OnsetTime: 52709
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 52980
+		Image.OnsetTime: 53308
+		Image.Duration: 500
+		Image.OffsetTime: 53655
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: -
+		Image.Tag: bl3s
+		PostITI.OnsetTime: 53808
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 55655
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 56008
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 56155
+		SendCorrect.Tag: ____
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 4
+		Type: Spatial
+		Display: kl4
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\kl4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 4
+		PreITI.OnsetTime: 56408
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 56680
+		Image.OnsetTime: 57007
+		Image.Duration: 500
+		Image.OffsetTime: 57355
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: kl4s
+		PostITI.OnsetTime: 57507
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 59355
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 59707
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 59855
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 5
+		Type: Spatial
+		Display: bl2
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\bl2.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 5
+		PreITI.OnsetTime: 60106
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 60380
+		Image.OnsetTime: 60706
+		Image.Duration: 500
+		Image.OffsetTime: 61055
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: bl2s
+		PostITI.OnsetTime: 61206
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 63055
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 63406
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 63555
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 6
+		Type: Spatial
+		Display: kl5
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\kl5.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 6
+		PreITI.OnsetTime: 63805
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 64080
+		Image.OnsetTime: 64405
+		Image.Duration: 500
+		Image.OffsetTime: 64755
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: kl5s
+		PostITI.OnsetTime: 64905
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 66755
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 67104
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 67255
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 7
+		Type: Spatial
+		Display: ju1
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ju1.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 7
+		PreITI.OnsetTime: 67521
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 67780
+		Image.OnsetTime: 68121
+		Image.Duration: 500
+		Image.OffsetTime: 68455
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: ju1s
+		PostITI.OnsetTime: 68621
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 70455
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 70820
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 70955
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 8
+		Type: Spatial
+		Display: gl4
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\gl4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 8
+		PreITI.OnsetTime: 71220
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 71480
+		Image.OnsetTime: 71820
+		Image.Duration: 500
+		Image.OffsetTime: 72155
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: gl4s
+		PostITI.OnsetTime: 72320
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 74155
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 74519
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 74655
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 9
+		Type: Spatial
+		Display: bu3
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\bu3.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 9
+		PreITI.OnsetTime: 74919
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 75180
+		Image.OnsetTime: 75519
+		Image.Duration: 500
+		Image.OffsetTime: 75855
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: bu3s
+		PostITI.OnsetTime: 76019
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 77855
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 78218
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 78355
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 10
+		Type: Spatial
+		Display: ku1
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ku1.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 10
+		PreITI.OnsetTime: 78618
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 78880
+		Image.OnsetTime: 79218
+		Image.Duration: 500
+		Image.OffsetTime: 79555
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: ku1s
+		PostITI.OnsetTime: 79717
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 81555
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 81917
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 82055
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 11
+		Type: Spatial
+		Display: dl4
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\dl4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 11
+		PreITI.OnsetTime: 82317
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 82580
+		Image.OnsetTime: 82917
+		Image.Duration: 500
+		Image.OffsetTime: 83255
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: dl4s
+		PostITI.OnsetTime: 83416
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 85255
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 85616
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 85755
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 12
+		Type: Spatial
+		Display: cl3
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\cl3.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 12
+		PreITI.OnsetTime: 86016
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 86280
+		Image.OnsetTime: 86615
+		Image.Duration: 500
+		Image.OffsetTime: 86955
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: cl3s
+		PostITI.OnsetTime: 87115
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 88955
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 89315
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 89455
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 13
+		Type: Spatial
+		Display: gl1
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\gl1.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 13
+		PreITI.OnsetTime: 89715
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 89980
+		Image.OnsetTime: 90314
+		Image.Duration: 500
+		Image.OffsetTime: 90655
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: gl1s
+		PostITI.OnsetTime: 90814
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 92655
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 93014
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 93155
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 14
+		Type: Spatial
+		Display: ku4
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ku4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 14
+		PreITI.OnsetTime: 93414
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 93680
+		Image.OnsetTime: 94013
+		Image.Duration: 500
+		Image.OffsetTime: 94355
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: ku4s
+		PostITI.OnsetTime: 94513
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 96355
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 96713
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 96855
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 15
+		Type: Spatial
+		Display: bl4
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\bl4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 15
+		PreITI.OnsetTime: 97112
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 97380
+		Image.OnsetTime: 97712
+		Image.Duration: 500
+		Image.OffsetTime: 98055
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: bl4s
+		PostITI.OnsetTime: 98212
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 100055
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 100411
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 100555
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 16
+		Type: Spatial
+		Display: kl1
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\kl1.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 16
+		PreITI.OnsetTime: 100811
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 101080
+		Image.OnsetTime: 101411
+		Image.Duration: 500
+		Image.OffsetTime: 101755
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: kl1s
+		PostITI.OnsetTime: 101911
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 103755
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 104110
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 104255
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 17
+		Type: Spatial
+		Display: cl5
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\cl5.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 17
+		PreITI.OnsetTime: 104510
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 104780
+		Image.OnsetTime: 105110
+		Image.Duration: 500
+		Image.OffsetTime: 105455
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: cl5s
+		PostITI.OnsetTime: 105610
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 107455
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 107809
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 107955
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 18
+		Type: Spatial
+		Display: ju4
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ju4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 18
+		PreITI.OnsetTime: 108209
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 108480
+		Image.OnsetTime: 108809
+		Image.Duration: 500
+		Image.OffsetTime: 109155
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: ju4s
+		PostITI.OnsetTime: 109309
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 111155
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 111508
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 111655
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 19
+		Type: Spatial
+		Display: du4
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\du4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 19
+		PreITI.OnsetTime: 111908
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 112180
+		Image.OnsetTime: 112508
+		Image.Duration: 500
+		Image.OffsetTime: 112855
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: du4s
+		PostITI.OnsetTime: 113008
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 114855
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 115207
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 115355
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 20
+		Type: Spatial
+		Display: gl1
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\gl1.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 20
+		PreITI.OnsetTime: 115607
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 115880
+		Image.OnsetTime: 116207
+		Image.Duration: 500
+		Image.OffsetTime: 116555
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: gl1s
+		PostITI.OnsetTime: 116707
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 118555
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 118906
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 119055
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 21
+		Type: Spatial
+		Display: jl2
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\jl2.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 21
+		PreITI.OnsetTime: 119306
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 119580
+		Image.OnsetTime: 119906
+		Image.Duration: 500
+		Image.OffsetTime: 120255
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: jl2s
+		PostITI.OnsetTime: 120406
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 122255
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 122605
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 122755
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 22
+		Type: Spatial
+		Display: cu0
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\cu0.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 22
+		PreITI.OnsetTime: 123005
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 123280
+		Image.OnsetTime: 123605
+		Image.Duration: 500
+		Image.OffsetTime: 123955
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: cu0s
+		PostITI.OnsetTime: 124105
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 125955
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 126321
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 126455
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 23
+		Type: Spatial
+		Display: ju1
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ju1.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 23
+		PreITI.OnsetTime: 126721
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 126980
+		Image.OnsetTime: 127320
+		Image.Duration: 500
+		Image.OffsetTime: 127655
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: ju1s
+		PostITI.OnsetTime: 127820
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 129655
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 130020
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 130155
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 24
+		Type: Spatial
+		Display: ju0
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ju0.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 24
+		PreITI.OnsetTime: 130419
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 130680
+		Image.OnsetTime: 131019
+		Image.Duration: 500
+		Image.OffsetTime: 131355
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: ju0s
+		PostITI.OnsetTime: 131519
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 133355
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 133719
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 133855
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 25
+		Type: Spatial
+		Display: kl2
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\kl2.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 25
+		PreITI.OnsetTime: 134118
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 134380
+		Image.OnsetTime: 134718
+		Image.Duration: 500
+		Image.OffsetTime: 135055
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: kl2s
+		PostITI.OnsetTime: 135218
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 137055
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 137417
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 137555
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 26
+		Type: Spatial
+		Display: jl1
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\jl1.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 26
+		PreITI.OnsetTime: 137817
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 138080
+		Image.OnsetTime: 138417
+		Image.Duration: 500
+		Image.OffsetTime: 138755
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: jl1s
+		PostITI.OnsetTime: 138917
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 140755
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 141116
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 141255
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 27
+		Type: Spatial
+		Display: gu4
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\gu4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 27
+		PreITI.OnsetTime: 141516
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 141780
+		Image.OnsetTime: 142116
+		Image.Duration: 500
+		Image.OffsetTime: 142455
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: gu4s
+		PostITI.OnsetTime: 142616
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 144455
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 144815
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 144955
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 28
+		Type: Spatial
+		Display: gu2
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\gu2.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 28
+		PreITI.OnsetTime: 145215
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 145480
+		Image.OnsetTime: 145815
+		Image.Duration: 500
+		Image.OffsetTime: 146155
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: gu2s
+		PostITI.OnsetTime: 146315
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 148155
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 148514
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 148655
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 29
+		Type: Spatial
+		Display: ju5
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ju5.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 29
+		PreITI.OnsetTime: 148914
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 149180
+		Image.OnsetTime: 149514
+		Image.Duration: 500
+		Image.OffsetTime: 149855
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: ju5s
+		PostITI.OnsetTime: 150014
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 151855
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 152213
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 152355
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 30
+		Type: Spatial
+		Display: cl4
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\cl4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 30
+		PreITI.OnsetTime: 152613
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 152880
+		Image.OnsetTime: 153213
+		Image.Duration: 500
+		Image.OffsetTime: 153555
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: cl4s
+		PostITI.OnsetTime: 153713
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 155555
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 155912
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 156055
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 31
+		Type: Spatial
+		Display: bl2
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\bl2.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 31
+		PreITI.OnsetTime: 156312
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 156580
+		Image.OnsetTime: 156912
+		Image.Duration: 500
+		Image.OffsetTime: 157255
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: bl2s
+		PostITI.OnsetTime: 157412
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 159255
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 159611
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 159755
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 32
+		Type: Spatial
+		Display: gl4
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\gl4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 32
+		PreITI.OnsetTime: 160011
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 160280
+		Image.OnsetTime: 160611
+		Image.Duration: 500
+		Image.OffsetTime: 160955
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: gl4s
+		PostITI.OnsetTime: 161111
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 162955
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 163310
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 163455
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 33
+		Type: Spatial
+		Display: jl5
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\jl5.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 33
+		PreITI.OnsetTime: 163710
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 163980
+		Image.OnsetTime: 164310
+		Image.Duration: 500
+		Image.OffsetTime: 164655
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: jl5s
+		PostITI.OnsetTime: 164810
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 166655
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 167009
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 167155
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 34
+		Type: Spatial
+		Display: dl3
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\dl3.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 34
+		PreITI.OnsetTime: 167409
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 167680
+		Image.OnsetTime: 168009
+		Image.Duration: 500
+		Image.OffsetTime: 168355
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: dl3s
+		PostITI.OnsetTime: 168508
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 170355
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 170708
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 170855
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 35
+		Type: Spatial
+		Display: gl4
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\gl4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 35
+		PreITI.OnsetTime: 171108
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 171380
+		Image.OnsetTime: 171708
+		Image.Duration: 500
+		Image.OffsetTime: 172055
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: gl4s
+		PostITI.OnsetTime: 172207
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 174055
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 174407
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 174555
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 36
+		Type: Spatial
+		Display: bu5
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\bu5.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 36
+		PreITI.OnsetTime: 174807
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 175080
+		Image.OnsetTime: 175406
+		Image.Duration: 500
+		Image.OffsetTime: 175755
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: bu5s
+		PostITI.OnsetTime: 175906
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 177755
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 178106
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 178255
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 37
+		Type: Spatial
+		Display: kl3
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\kl3.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 37
+		PreITI.OnsetTime: 178506
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 178780
+		Image.OnsetTime: 179105
+		Image.Duration: 500
+		Image.OffsetTime: 179455
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: kl3s
+		PostITI.OnsetTime: 179605
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 181455
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 181805
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 181955
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 38
+		Type: Spatial
+		Display: ju0
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ju0.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 38
+		PreITI.OnsetTime: 182221
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 182480
+		Image.OnsetTime: 182821
+		Image.Duration: 500
+		Image.OffsetTime: 183155
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: ju0s
+		PostITI.OnsetTime: 183321
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 185155
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 185520
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 185655
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 39
+		Type: Spatial
+		Display: bu5
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\bu5.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 39
+		PreITI.OnsetTime: 185920
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 186180
+		Image.OnsetTime: 186520
+		Image.Duration: 500
+		Image.OffsetTime: 186855
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: bu5s
+		PostITI.OnsetTime: 187020
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 188855
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 189219
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 189355
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 40
+		Type: Spatial
+		Display: cl3
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\cl3.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 40
+		PreITI.OnsetTime: 189619
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 189880
+		Image.OnsetTime: 190219
+		Image.Duration: 500
+		Image.OffsetTime: 190555
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: cl3s
+		PostITI.OnsetTime: 190719
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 192555
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 192918
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 193055
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 41
+		Type: Spatial
+		Display: bl0
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\bl0.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 41
+		PreITI.OnsetTime: 193318
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 193580
+		Image.OnsetTime: 193918
+		Image.Duration: 500
+		Image.OffsetTime: 194255
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: bl0s
+		PostITI.OnsetTime: 194418
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 196255
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 196617
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 196755
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 42
+		Type: Spatial
+		Display: cl4
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\cl4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 42
+		PreITI.OnsetTime: 197017
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 197280
+		Image.OnsetTime: 197617
+		Image.Duration: 500
+		Image.OffsetTime: 197955
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: cl4s
+		PostITI.OnsetTime: 198117
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 199955
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 200316
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 200455
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 43
+		Type: Spatial
+		Display: bl3
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\bl3.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 43
+		PreITI.OnsetTime: 200716
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 200980
+		Image.OnsetTime: 201316
+		Image.Duration: 500
+		Image.OffsetTime: 201655
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: bl3s
+		PostITI.OnsetTime: 201815
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 203655
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 204015
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 204155
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 44
+		Type: Spatial
+		Display: jl0
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\jl0.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 44
+		PreITI.OnsetTime: 204415
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 204680
+		Image.OnsetTime: 205015
+		Image.Duration: 500
+		Image.OffsetTime: 205355
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: jl0s
+		PostITI.OnsetTime: 205514
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 207355
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 207714
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 207855
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 45
+		Type: Spatial
+		Display: cl4
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\cl4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 45
+		PreITI.OnsetTime: 208114
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 208380
+		Image.OnsetTime: 208713
+		Image.Duration: 500
+		Image.OffsetTime: 209055
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: cl4s
+		PostITI.OnsetTime: 209213
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 211055
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 211413
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 211555
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 46
+		Type: Spatial
+		Display: dl2
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\dl2.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 46
+		PreITI.OnsetTime: 211813
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 212080
+		Image.OnsetTime: 212412
+		Image.Duration: 500
+		Image.OffsetTime: 212755
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: dl2s
+		PostITI.OnsetTime: 212912
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 214755
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 215112
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 215255
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 47
+		Type: Spatial
+		Display: gl0
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\gl0.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 47
+		PreITI.OnsetTime: 215511
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 215780
+		Image.OnsetTime: 216111
+		Image.Duration: 500
+		Image.OffsetTime: 216455
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: gl0s
+		PostITI.OnsetTime: 216611
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 218455
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 218811
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 218955
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 48
+		Type: Spatial
+		Display: ju4
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ju4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 48
+		PreITI.OnsetTime: 219210
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 219480
+		Image.OnsetTime: 219810
+		Image.Duration: 500
+		Image.OffsetTime: 220155
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: ju4s
+		PostITI.OnsetTime: 220310
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 222155
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 222509
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 222655
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 49
+		Type: Spatial
+		Display: ku2
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ku2.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 49
+		PreITI.OnsetTime: 222909
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 223180
+		Image.OnsetTime: 223509
+		Image.Duration: 500
+		Image.OffsetTime: 223855
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: ku2s
+		PostITI.OnsetTime: 224009
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 225855
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 226208
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 226355
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 50
+		Type: Spatial
+		Display: ku4
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ku4.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 50
+		PreITI.OnsetTime: 226608
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 226880
+		Image.OnsetTime: 227208
+		Image.Duration: 500
+		Image.OffsetTime: 227555
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: ku4s
+		PostITI.OnsetTime: 227708
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 229555
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 229907
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 230055
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 51
+		Type: Spatial
+		Display: du0
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\du0.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 51
+		PreITI.OnsetTime: 230307
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 230580
+		Image.OnsetTime: 230907
+		Image.Duration: 500
+		Image.OffsetTime: 231255
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: du0s
+		PostITI.OnsetTime: 231407
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 233255
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 233606
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 233755
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 52
+		Type: Spatial
+		Display: cl1
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\cl1.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 52
+		PreITI.OnsetTime: 234006
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 234280
+		Image.OnsetTime: 234606
+		Image.Duration: 500
+		Image.OffsetTime: 234955
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: cl1s
+		PostITI.OnsetTime: 235106
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 236955
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 237305
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 237455
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 53
+		Type: Spatial
+		Display: ju1
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ju1.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 53
+		PreITI.OnsetTime: 237705
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 237980
+		Image.OnsetTime: 238305
+		Image.Duration: 500
+		Image.OffsetTime: 238655
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: ju1s
+		PostITI.OnsetTime: 238805
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 240655
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 241021
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 241155
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 54
+		Type: Spatial
+		Display: ju5
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ju5.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 54
+		PreITI.OnsetTime: 241421
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 241680
+		Image.OnsetTime: 242020
+		Image.Duration: 500
+		Image.OffsetTime: 242355
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: ju5s
+		PostITI.OnsetTime: 242520
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 244355
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 244720
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 244855
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 55
+		Type: Spatial
+		Display: du0
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\du0.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 55
+		PreITI.OnsetTime: 245120
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 245380
+		Image.OnsetTime: 245719
+		Image.Duration: 500
+		Image.OffsetTime: 246055
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: du0s
+		PostITI.OnsetTime: 246219
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 248055
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 248419
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 248555
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 56
+		Type: Spatial
+		Display: ju1
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ju1.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 56
+		PreITI.OnsetTime: 248819
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 249080
+		Image.OnsetTime: 249418
+		Image.Duration: 500
+		Image.OffsetTime: 249755
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: ju1s
+		PostITI.OnsetTime: 249918
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 251755
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 252118
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 252255
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 57
+		Type: Spatial
+		Display: dl5
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\dl5.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 57
+		PreITI.OnsetTime: 252517
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 252780
+		Image.OnsetTime: 253117
+		Image.Duration: 500
+		Image.OffsetTime: 253455
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: dl5s
+		PostITI.OnsetTime: 253617
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 255455
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 255816
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 255955
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 58
+		Type: Spatial
+		Display: ku0
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\ku0.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 58
+		PreITI.OnsetTime: 256216
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 256480
+		Image.OnsetTime: 256816
+		Image.Duration: 500
+		Image.OffsetTime: 257155
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: ku0s
+		PostITI.OnsetTime: 257316
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 259155
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 259515
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 259655
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 59
+		Type: Spatial
+		Display: jl5
+		CorrectAnswer: n
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\jl5.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 59
+		PreITI.OnsetTime: 259915
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 260180
+		Image.OnsetTime: 260515
+		Image.Duration: 500
+		Image.OffsetTime: 260855
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 2
+		Image.Tag: jl5s
+		PostITI.OnsetTime: 261015
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 262855
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 263214
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 263355
+		SendCorrect.Tag: 2__n
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: Run
+		Trials: 60
+		Type: Spatial
+		Display: gu5
+		CorrectAnswer: y
+		CellNumber: 1
+		PostITITime: 2200
+		ImageTime: 500
+		InputTime: 1950
+		File: ImageFiles\gu5.bmp
+		Jitter: 0
+		Running: Trials
+		Trials.Cycle: 2
+		Trials.Sample: 60
+		PreITI.OnsetTime: 263614
+		PreITI.Duration: 600
+		PreITI.OffsetTime: 263880
+		Image.OnsetTime: 264214
+		Image.Duration: 500
+		Image.OffsetTime: 264555
+		Image.RTTime: 0
+		Image.ACC: 0
+		Image.RT: 0
+		Image.RESP: 
+		Image.CRESP: 1
+		Image.Tag: gu5s
+		PostITI.OnsetTime: 264714
+		PostITI.Duration: 2200
+		PostITI.OffsetTime: 266555
+		Shock: N/A
+		Score: 0
+		SendCorrect.OnsetTime: 266913
+		SendCorrect.Duration: 400
+		SendCorrect.OffsetTime: 267055
+		SendCorrect.Tag: 1__n
+		*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Main: 1
+	Procedure: MainProc
+	Trials: 60
+	MatchPercent: .5
+	Type: Spatial
+	nBack: 3
+	ZeroCorrect: du4
+	Letters: 1
+	Value: u
+	Positions: 1
+	LetterCase: 1
+	Main.Cycle: 1
+	Main.Sample: 1
+	Running: Main
+	LoadTime.OnsetTime: 42328
+	LoadTime.Duration: 3000
+	LoadTime.OffsetTime: 45105
+	*** LogFrame End ***
+Level: 1
+*** LogFrame Start ***
+Experiment: ee3BackLocationsSafe_1v1.5WORKS
+SessionDate: 09-11-2017
+SessionTime: 15:16:35
+SessionStartDateTimeUtc: 9/11/2017 7:16:35 PM
+Subject: 9
+Session: 5
+Age: 0
+Sex: unknown
+Handedness: unknown
+ResearcherID: 1
+DataFile.Basename: ee3BackLocationsSafe_1v1.5WORKS-9-5
+RandomSeed: 1344274824
+Group: 1
+Display.RefreshRate: 60.018
+PostITITime: 2200
+Clock.Information: <?xml version="1.0"?>\n<Clock xmlns:dt="urn:schemas-microsoft-com:datatypes"><Description dt:dt="string">E-Prime Primary Realtime Clock</Description><StartTime><Timestamp dt:dt="int">0</Timestamp><DateUtc dt:dt="string">2017-09-11T19:16:35Z</DateUtc></StartTime><FrequencyChanges><FrequencyChange><Frequency dt:dt="r8">2825537</Frequency><Timestamp dt:dt="r8">512444815041</Timestamp><Current dt:dt="r8">0</Current><DateUtc dt:dt="string">2017-09-11T19:16:35Z</DateUtc></FrequencyChange></FrequencyChanges></Clock>\n
+StudioVersion: 2.0.10.252
+RuntimeVersion: 2.0.10.356
+RuntimeVersionExpected: 2.0.10.356
+RuntimeCapabilities: Professional
+ExperimentVersion: 1.0.0.49
+PreITITime: 600
+Path: ImageFiles\
+SendCorrectTime: 400
+Instructions.OffsetTime: 42305
+*** LogFrame End ***
