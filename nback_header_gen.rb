@@ -8,9 +8,9 @@ unless File.file?('nback_ruby_out.csv')
   
   headr += "#{subj},#{sess},"
   
-  60.times do 
+  60.times do |x|
     ['score','imagert'].each do |type|
-  	  headr += "#{type.strip},"
+  	  headr += "#{type.strip} #{x+1},"
     end
   end
   
