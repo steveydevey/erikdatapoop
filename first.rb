@@ -24,12 +24,17 @@ first_idx = bigpull.index('Procedure: TrialProcMain')
 # remove the first chunk of the array before the pieces of info that matter -- this drops all the test data
 bigpull.shift(first_idx)
 
-print "#{subject},#{session},"
+datarecord = "#{subject},#{session},"
 
-bigpull.each_with_index do  |y,idx| 
+bigpull.each do  |y| 
 	#print "#{idx} - #{y}\n"
-	print "#{y},"
+	unless y =~ /TrialProc/ 
+		#print "#{y.split.last},"
+		datarecord += "#{y.split.last},"
+	end
 end 
-print "\n"
-print "\n"
+datarecord += "\n"
 
+#print datarecord
+
+File.open('stroop_ruby_out.csv', 'a') {|f| f.write(datarecord) }
