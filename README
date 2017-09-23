@@ -1,0 +1,3 @@
+To use this shit, you obviously need ruby.
+
+After that, you run the header_gen script to spit out the headers into a csv. then the first.rb will read through Stroop.txt and append it's data into the csv. They both append, so there's no chance of trashing anything at this point. (hopefully)
