@@ -9,9 +9,13 @@ session = File.open(workingfile).grep(/Session:/).first.split.last
 
 bigpull = File.open(workingfile).grep(/TrialProc|RTTime|ACC|DesignList.Cycle/)
 
-#print "#{subject},#{session},"
+#bigpull.index("		Procedure: TrialProcMain")
+
+
+print "#{subject},#{session},"
 bigpull.each do  |x| 
-	print x.strip + ","
+	x = x.strip
+	print x + ","
 end 
 print "\n"
 print "\n"
