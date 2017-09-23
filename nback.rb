@@ -34,7 +34,7 @@ if File.file?(workingfile)
   # add a newline at the end of this record, so the next won't have to know to do it
   datarecord += "\n"
   
-  puts datarecord
-  #File.open('nback_ruby_out.csv', 'a') {|f| f.write(datarecord) }
+  #puts datarecord
+  File.open('nback_ruby_out.csv', 'a') {|f| f.write(datarecord) }
 
 end
