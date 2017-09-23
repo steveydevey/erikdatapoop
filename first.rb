@@ -19,15 +19,16 @@ end
 first_idx = bigpull.index('Procedure: TrialProcMain')
 
 # debug statement for testing the first index value -- should be removed later
-print "FI: #{first_idx} \n\n"
+#print "FI: #{first_idx} \n\n"
 
 # remove the first chunk of the array before the pieces of info that matter -- this drops all the test data
 bigpull.shift(first_idx)
 
-#print "#{subject},#{session},"
+print "#{subject},#{session},"
 
 bigpull.each_with_index do  |y,idx| 
-	print "#{idx} - #{y}\n"
+	#print "#{idx} - #{y}\n"
+	print "#{y},"
 end 
 print "\n"
 print "\n"
