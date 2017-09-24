@@ -33,49 +33,42 @@ if File.file?(workingfile)
 
   # loop through file and make an array for all of the things we want
   responses = Hash.new
-  responses['First'] = []
-  responses['Second'] = []
-  responses['Third'] = []
-  responses['Fourth'] = []
-  responses['Fifth'] = []
-  responses['Sixth'] = []
-  responses['Seventh'] = []
-  responses['Eight'] = []
-  responses['KeyPress1RT'] = []
-  responses['KeyPress1RESP'] = []
-  responses['KeyPress2RT'] = []
-  responses['KeyPress2RESP'] = []
-  responses['KeyPress3RT'] = []
-  responses['KeyPress3RESP'] = []
-  responses['KeyPress4RT'] = []
-  responses['KeyPress4RESP'] = []
-  responses['KeyPress5RT'] = []
-  responses['KeyPress5RESP'] = []
-  responses['KeyPress6RT'] = []
-  responses['KeyPress6RESP'] = []
-  responses['KeyPress7RT'] = []
-  responses['KeyPress7RESP'] = []
-  responses['KeyPress8RT'] = []
-  responses['KeyPress8RESP'] = []
+  responses['First'] 		= []
+  responses['Second'] 		= []
+  responses['Third'] 		= []
+  responses['Fourth'] 		= []
+  responses['Fifth'] 		= []
+  responses['Sixth'] 		= []
+  responses['Seventh'] 		= []
+  responses['Eight'] 		= []
+  responses['KeyPress1RT'] 	= []
+  responses['KeyPress1RESP'] 	= []
+  responses['KeyPress2RT'] 	= []
+  responses['KeyPress2RESP'] 	= []
+  responses['KeyPress3RT'] 	= []
+  responses['KeyPress3RESP'] 	= []
+  responses['KeyPress4RT'] 	= []
+  responses['KeyPress4RESP'] 	= []
+  responses['KeyPress5RT'] 	= []
+  responses['KeyPress5RESP'] 	= []
+  responses['KeyPress6RT'] 	= []
+  responses['KeyPress6RESP'] 	= []
+  responses['KeyPress7RT'] 	= []
+  responses['KeyPress7RESP'] 	= []
+  responses['KeyPress8RT'] 	= []
+  responses['KeyPress8RESP'] 	= []
 
    responses.each do |item|
-	#useritems[item] = File.open(workingfile).grep(/#{item}/)
-	   type = item.first
-	print "#{item}\n"
+	type = item.first
 	print "#{type}\n"
 	responses[type] = File.open(workingfile).grep(/#{type}/)
-	#print responses[type]
-	for 
-	responses[item].each do |x|
+	responses[type].each do |x|
 		x = x.split.last
-		print "#{x}\n"
+		print "#{x},"
 	end
-	#print File.open(workingfile).grep(/#{item}/).first.split.last
 	print "\n"
    end
 
-   print "#{first}\n"
-      
   # add a newline at the end of this record, so the next won't have to know to do it
   #datarecord += "\n"
   

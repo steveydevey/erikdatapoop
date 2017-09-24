@@ -1,0 +1,708 @@
+﻿*** Header Start ***
+VersionPersist: 1
+LevelName: Session
+LevelName: Block
+LevelName: Trial
+LevelName: SubTrial
+LevelName: LogLevel5
+LevelName: LogLevel6
+LevelName: LogLevel7
+LevelName: LogLevel8
+LevelName: LogLevel9
+LevelName: LogLevel10
+Experiment: JebOrder.es3 WORKS2
+SessionDate: 09-12-2017
+SessionTime: 11:20:04
+SessionStartDateTimeUtc: 9/12/2017 3:20:04 PM
+Subject: 2
+Session: 7
+DataFile.Basename: JebOrder.es3 WORKS2-2-7
+RandomSeed: -912476614
+Group: 1
+Display.RefreshRate: 60.018
+*** Header End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 2
+	Procedure: Length4Practice
+	First: 3
+	Second: 1
+	Third: 4
+	Fourth: 6
+	CorrectPRACTICE: 3146
+	Practice.Cycle: 1
+	Practice.Sample: 1
+	Running: Practice
+	Slide1.OnsetDelay: 16
+	Slide1.OnsetTime: 120528
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 138129
+	Slide1.ACC: 0
+	Slide1.RT: 17601
+	Slide1.RESP: 3146
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 506
+	KeyPress1RESP: 3
+	KeyPress2RT: 842
+	KeyPress2RESP: 1
+	KeyPress3RT: 1626
+	KeyPress3RESP: 4
+	KeyPress4RT: 1930
+	KeyPress4RESP: 6
+	KeyPress5RT: 17601
+	KeyPress5RESP: {ENTER}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Practice: 1
+	Procedure: Length4Practice
+	First: 2
+	Second: 1
+	Third: 7
+	Fourth: 3
+	CorrectPRACTICE: 2173
+	Practice.Cycle: 1
+	Practice.Sample: 2
+	Running: Practice
+	Slide1.OnsetDelay: 17
+	Slide1.OnsetTime: 150386
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 153393
+	Slide1.ACC: 0
+	Slide1.RT: 3007
+	Slide1.RESP: 2173
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 1071
+	KeyPress1RESP: 2
+	KeyPress2RT: 1303
+	KeyPress2RESP: 1
+	KeyPress3RT: 1623
+	KeyPress3RESP: 7
+	KeyPress4RT: 2175
+	KeyPress4RESP: 3
+	KeyPress5RT: 3007
+	KeyPress5RESP: {ENTER}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length4
+	First: 4
+	Second: 7
+	Third: 5
+	Fourth: 9
+	Trials: 1
+	DigitSpan: 4
+	Fifth: ?
+	Sixth: ?
+	Seventh: ?
+	Eighth: ?
+	Running: Trials
+	Slide1.OnsetDelay: 16
+	Slide1.OnsetTime: 169147
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 174248
+	Slide1.ACC: 0
+	Slide1.RT: 5101
+	Slide1.RESP: 4751
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 2686
+	KeyPress1RESP: 4
+	KeyPress2RT: 2878
+	KeyPress2RESP: 7
+	KeyPress3RT: 3446
+	KeyPress3RESP: 5
+	KeyPress4RT: 4637
+	KeyPress4RESP: 1
+	KeyPress5RT: 5101
+	KeyPress5RESP: {ENTER}
+	Trials.Cycle: 2
+	Trials.Sample: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length5
+	First: 3
+	Second: 5
+	Third: 7
+	Fourth: 4
+	Trials: 2
+	DigitSpan: 5
+	Fifth: 9
+	Sixth: ?
+	Seventh: ?
+	Eighth: ?
+	Running: Trials
+	Slide1.OnsetDelay: 16
+	Slide1.OnsetTime: 185725
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 189064
+	Slide1.ACC: 0
+	Slide1.RT: 3339
+	Slide1.RESP: 35741
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 731
+	KeyPress1RESP: 3
+	KeyPress2RT: 1475
+	KeyPress2RESP: 5
+	KeyPress3RT: 1827
+	KeyPress3RESP: 7
+	KeyPress4RT: 2083
+	KeyPress4RESP: 4
+	KeyPress5RT: 2363
+	KeyPress5RESP: 1
+	Trials.Cycle: 2
+	Trials.Sample: 2
+	KeyPress6RT: 3339
+	KeyPress6RESP: {ENTER}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length6
+	First: 5
+	Second: 8
+	Third: 3
+	Fourth: 6
+	Trials: 3
+	DigitSpan: 6
+	Fifth: 4
+	Sixth: 1
+	Seventh: ?
+	Eighth: ?
+	Running: Trials
+	Slide1.OnsetDelay: 16
+	Slide1.OnsetTime: 202137
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 206192
+	Slide1.ACC: 0
+	Slide1.RT: 4055
+	Slide1.RESP: 583641
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 1079
+	KeyPress1RESP: 5
+	KeyPress2RT: 2023
+	KeyPress2RESP: 8
+	KeyPress3RT: 2647
+	KeyPress3RESP: 3
+	KeyPress4RT: 2847
+	KeyPress4RESP: 6
+	KeyPress5RT: 3455
+	KeyPress5RESP: 4
+	Trials.Cycle: 2
+	Trials.Sample: 3
+	KeyPress6RT: 3671
+	KeyPress6RESP: 1
+	KeyPress7RT: 4055
+	KeyPress7RESP: {ENTER}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length7
+	First: 2
+	Second: 6
+	Third: 5
+	Fourth: 4
+	Trials: 4
+	DigitSpan: 7
+	Fifth: 8
+	Sixth: 1
+	Seventh: 7
+	Eighth: ?
+	Running: Trials
+	Slide1.OnsetDelay: 17
+	Slide1.OnsetTime: 220832
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 224951
+	Slide1.ACC: 0
+	Slide1.RT: 4119
+	Slide1.RESP: 2654817
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 1031
+	KeyPress1RESP: 2
+	KeyPress2RT: 1239
+	KeyPress2RESP: 6
+	KeyPress3RT: 2063
+	KeyPress3RESP: 5
+	KeyPress4RT: 2463
+	KeyPress4RESP: 4
+	KeyPress5RT: 2751
+	KeyPress5RESP: 8
+	Trials.Cycle: 2
+	Trials.Sample: 4
+	KeyPress6RT: 3407
+	KeyPress6RESP: 1
+	KeyPress7RT: 3679
+	KeyPress7RESP: 7
+	KeyPress8RT: 4119
+	KeyPress8RESP: {ENTER}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length8
+	First: 8
+	Second: 1
+	Third: 3
+	Fourth: 4
+	Trials: 5
+	DigitSpan: 8
+	Fifth: 5
+	Sixth: 2
+	Seventh: 7
+	Eighth: 9
+	Running: Trials
+	Slide1.OnsetDelay: 17
+	Slide1.OnsetTime: 241176
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 248023
+	Slide1.ACC: 0
+	Slide1.RT: 6847
+	Slide1.RESP: 81543271
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 2127
+	KeyPress1RESP: 8
+	KeyPress2RT: 2751
+	KeyPress2RESP: 1
+	KeyPress3RT: 2975
+	KeyPress3RESP: 5
+	KeyPress4RT: 3375
+	KeyPress4RESP: 4
+	KeyPress5RT: 3799
+	KeyPress5RESP: 3
+	Trials.Cycle: 2
+	Trials.Sample: 5
+	KeyPress6RT: 4775
+	KeyPress6RESP: 2
+	KeyPress7RT: 5087
+	KeyPress7RESP: 7
+	KeyPress8RT: 6519
+	KeyPress8RESP: 1
+	KeyPress9RT: 6847
+	KeyPress9RESP: {ENTER}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length4
+	First: 2
+	Second: 6
+	Third: 5
+	Fourth: 8
+	Trials: 6
+	DigitSpan: 4
+	Fifth: ?
+	Sixth: ?
+	Seventh: ?
+	Eighth: ?
+	Running: Trials
+	Slide1.OnsetDelay: 17
+	Slide1.OnsetTime: 257921
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 262334
+	Slide1.ACC: 0
+	Slide1.RT: 4413
+	Slide1.RESP: 2658
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 3174
+	KeyPress1RESP: 2
+	KeyPress2RT: 3421
+	KeyPress2RESP: 6
+	KeyPress3RT: 3877
+	KeyPress3RESP: 5
+	KeyPress4RT: 4085
+	KeyPress4RESP: 8
+	KeyPress5RT: 4413
+	KeyPress5RESP: {ENTER}
+	Trials.Cycle: 2
+	Trials.Sample: 6
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length5
+	First: 2
+	Second: 8
+	Third: 6
+	Fourth: 1
+	Trials: 7
+	DigitSpan: 5
+	Fifth: 9
+	Sixth: ?
+	Seventh: ?
+	Eighth: ?
+	Running: Trials
+	Slide1.OnsetDelay: 17
+	Slide1.OnsetTime: 273833
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 277366
+	Slide1.ACC: 0
+	Slide1.RT: 3533
+	Slide1.RESP: 28619
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 1101
+	KeyPress1RESP: 2
+	KeyPress2RT: 1365
+	KeyPress2RESP: 8
+	KeyPress3RT: 2405
+	KeyPress3RESP: 6
+	KeyPress4RT: 3021
+	KeyPress4RESP: 1
+	KeyPress5RT: 3301
+	KeyPress5RESP: 9
+	Trials.Cycle: 2
+	Trials.Sample: 7
+	KeyPress6RT: 3533
+	KeyPress6RESP: {ENTER}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length6
+	First: 1
+	Second: 2
+	Third: 4
+	Fourth: 3
+	Trials: 8
+	DigitSpan: 6
+	Fifth: 8
+	Sixth: 5
+	Seventh: ?
+	Eighth: ?
+	Running: Trials
+	Slide1.OnsetDelay: 17
+	Slide1.OnsetTime: 290428
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 295398
+	Slide1.ACC: 0
+	Slide1.RT: 4970
+	Slide1.RESP: 124835
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 1818
+	KeyPress1RESP: 1
+	KeyPress2RT: 2010
+	KeyPress2RESP: 2
+	KeyPress3RT: 2714
+	KeyPress3RESP: 4
+	KeyPress4RT: 3898
+	KeyPress4RESP: 8
+	KeyPress5RT: 4306
+	KeyPress5RESP: 3
+	Trials.Cycle: 2
+	Trials.Sample: 8
+	KeyPress6RT: 4610
+	KeyPress6RESP: 5
+	KeyPress7RT: 4970
+	KeyPress7RESP: {ENTER}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length7
+	First: 6
+	Second: 8
+	Third: 5
+	Fourth: 1
+	Trials: 9
+	DigitSpan: 7
+	Fifth: 9
+	Sixth: 3
+	Seventh: 4
+	Eighth: ?
+	Running: Trials
+	Slide1.OnsetDelay: 17
+	Slide1.OnsetTime: 310089
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 316069
+	Slide1.ACC: 0
+	Slide1.RT: 5980
+	Slide1.RESP: 28651834
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 2244
+	KeyPress1RESP: 2
+	KeyPress2RT: 2540
+	KeyPress2RESP: 8
+	KeyPress3RT: 3020
+	KeyPress3RESP: 6
+	KeyPress4RT: 3788
+	KeyPress4RESP: 5
+	KeyPress5RT: 4212
+	KeyPress5RESP: 1
+	Trials.Cycle: 2
+	Trials.Sample: 9
+	KeyPress6RT: 4668
+	KeyPress6RESP: 8
+	KeyPress7RT: 5388
+	KeyPress7RESP: 3
+	KeyPress8RT: 5708
+	KeyPress8RESP: 4
+	KeyPress9RT: 5980
+	KeyPress9RESP: {ENTER}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length8
+	First: 7
+	Second: 8
+	Third: 5
+	Fourth: 6
+	Trials: 10
+	DigitSpan: 8
+	Fifth: 4
+	Sixth: 1
+	Seventh: 9
+	Eighth: 3
+	Running: Trials
+	Slide1.OnsetDelay: 16
+	Slide1.OnsetTime: 332315
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 336557
+	Slide1.ACC: 0
+	Slide1.RT: 4242
+	Slide1.RESP: 7865493
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 1210
+	KeyPress1RESP: 7
+	KeyPress2RT: 1434
+	KeyPress2RESP: 8
+	KeyPress3RT: 2050
+	KeyPress3RESP: 6
+	KeyPress4RT: 2458
+	KeyPress4RESP: 5
+	KeyPress5RT: 2914
+	KeyPress5RESP: 4
+	Trials.Cycle: 2
+	Trials.Sample: 10
+	KeyPress6RT: 3602
+	KeyPress6RESP: 9
+	KeyPress7RT: 3962
+	KeyPress7RESP: 3
+	KeyPress8RT: 4242
+	KeyPress8RESP: {ENTER}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length4
+	First: 8
+	Second: 1
+	Third: 9
+	Fourth: 4
+	Trials: 11
+	DigitSpan: 4
+	Fifth: ?
+	Sixth: ?
+	Seventh: ?
+	Eighth: ?
+	Running: Trials
+	Slide1.OnsetDelay: 17
+	Slide1.OnsetTime: 346528
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 350292
+	Slide1.ACC: 0
+	Slide1.RT: 3764
+	Slide1.RESP: 8194
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 1452
+	KeyPress1RESP: 8
+	KeyPress2RT: 2076
+	KeyPress2RESP: 1
+	KeyPress3RT: 3020
+	KeyPress3RESP: 9
+	KeyPress4RT: 3476
+	KeyPress4RESP: 4
+	KeyPress5RT: 3764
+	KeyPress5RESP: {ENTER}
+	Trials.Cycle: 2
+	Trials.Sample: 11
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length5
+	First: 7
+	Second: 2
+	Third: 8
+	Fourth: 9
+	Trials: 12
+	DigitSpan: 5
+	Fifth: 5
+	Sixth: ?
+	Seventh: ?
+	Eighth: ?
+	Running: Trials
+	Slide1.OnsetDelay: 16
+	Slide1.OnsetTime: 361823
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 367068
+	Slide1.ACC: 0
+	Slide1.RT: 5245
+	Slide1.RESP: 782895
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 1029
+	KeyPress1RESP: 7
+	KeyPress2RT: 1237
+	KeyPress2RESP: 8
+	KeyPress3RT: 3701
+	KeyPress3RESP: 2
+	KeyPress4RT: 4437
+	KeyPress4RESP: 8
+	KeyPress5RT: 4677
+	KeyPress5RESP: 9
+	Trials.Cycle: 2
+	Trials.Sample: 12
+	KeyPress6RT: 4893
+	KeyPress6RESP: 5
+	KeyPress7RT: 5245
+	KeyPress7RESP: {ENTER}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length6
+	First: 6
+	Second: 9
+	Third: 3
+	Fourth: 4
+	Trials: 13
+	DigitSpan: 6
+	Fifth: 8
+	Sixth: 1
+	Seventh: ?
+	Eighth: ?
+	Running: Trials
+	Slide1.OnsetDelay: 17
+	Slide1.OnsetTime: 380135
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 385636
+	Slide1.ACC: 0
+	Slide1.RT: 5501
+	Slide1.RESP: 693481
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 2261
+	KeyPress1RESP: 6
+	KeyPress2RT: 2509
+	KeyPress2RESP: 9
+	KeyPress3RT: 3573
+	KeyPress3RESP: 3
+	KeyPress4RT: 3933
+	KeyPress4RESP: 4
+	KeyPress5RT: 4397
+	KeyPress5RESP: 8
+	Trials.Cycle: 2
+	Trials.Sample: 13
+	KeyPress6RT: 5165
+	KeyPress6RESP: 1
+	KeyPress7RT: 5501
+	KeyPress7RESP: {ENTER}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length7
+	First: 9
+	Second: 2
+	Third: 5
+	Fourth: 8
+	Trials: 14
+	DigitSpan: 7
+	Fifth: 6
+	Sixth: 1
+	Seventh: 3
+	Eighth: ?
+	Running: Trials
+	Slide1.OnsetDelay: 17
+	Slide1.OnsetTime: 400279
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 404867
+	Slide1.ACC: 0
+	Slide1.RT: 4588
+	Slide1.RESP: 9258613
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 1116
+	KeyPress1RESP: 9
+	KeyPress2RT: 1908
+	KeyPress2RESP: 2
+	KeyPress3RT: 2116
+	KeyPress3RESP: 5
+	KeyPress4RT: 2580
+	KeyPress4RESP: 8
+	KeyPress5RT: 2964
+	KeyPress5RESP: 6
+	Trials.Cycle: 2
+	Trials.Sample: 14
+	KeyPress6RT: 3652
+	KeyPress6RESP: 1
+	KeyPress7RT: 4268
+	KeyPress7RESP: 3
+	KeyPress8RT: 4588
+	KeyPress8RESP: {ENTER}
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Procedure: Length8
+	First: 3
+	Second: 6
+	Third: 7
+	Fourth: 9
+	Trials: 15
+	DigitSpan: 8
+	Fifth: 5
+	Sixth: 4
+	Seventh: 1
+	Eighth: 8
+	Running: Trials
+	Slide1.OnsetDelay: 16
+	Slide1.OnsetTime: 421089
+	Slide1.DurationError: -999999
+	Slide1.RTTime: 426387
+	Slide1.ACC: 0
+	Slide1.RT: 5298
+	Slide1.RESP: 38679548
+	Slide1.CRESP: 
+	Slide1.OnsetToOnsetTime: 0
+	KeyPress1RT: 802
+	KeyPress1RESP: 3
+	KeyPress2RT: 1722
+	KeyPress2RESP: 8
+	KeyPress3RT: 2146
+	KeyPress3RESP: 6
+	KeyPress4RT: 2674
+	KeyPress4RESP: 7
+	KeyPress5RT: 3890
+	KeyPress5RESP: 9
+	Trials.Cycle: 2
+	Trials.Sample: 15
+	KeyPress6RT: 4226
+	KeyPress6RESP: 5
+	KeyPress7RT: 4578
+	KeyPress7RESP: 4
+	KeyPress8RT: 4874
+	KeyPress8RESP: 8
+	KeyPress9RT: 5298
+	KeyPress9RESP: {ENTER}
+	*** LogFrame End ***
+Level: 1
+*** LogFrame Start ***
+Experiment: JebOrder.es3 WORKS2
+SessionDate: 09-12-2017
+SessionTime: 11:20:04
+SessionStartDateTimeUtc: 9/12/2017 3:20:04 PM
+Subject: 2
+Session: 7
+DataFile.Basename: JebOrder.es3 WORKS2-2-7
+RandomSeed: -912476614
+Group: 1
+Display.RefreshRate: 60.018
+Clock.Information: <?xml version="1.0"?>\n<Clock xmlns:dt="urn:schemas-microsoft-com:datatypes"><Description dt:dt="string">E-Prime Primary Realtime Clock</Description><StartTime><Timestamp dt:dt="int">0</Timestamp><DateUtc dt:dt="string">2017-09-12T15:20:04Z</DateUtc></StartTime><FrequencyChanges><FrequencyChange><Frequency dt:dt="r8">2825556</Frequency><Timestamp dt:dt="r8">716346499942</Timestamp><Current dt:dt="r8">0</Current><DateUtc dt:dt="string">2017-09-12T15:20:04Z</DateUtc></FrequencyChange></FrequencyChanges></Clock>\n
+StudioVersion: 2.0.10.252
+RuntimeVersion: 2.0.10.356
+RuntimeVersionExpected: 2.0.10.356
+RuntimeCapabilities: Professional
+ExperimentVersion: 1.0.0.20
+*** LogFrame End ***
