@@ -18,8 +18,12 @@ else
     # set the subject/session info at the beginning of the row
     datarecord = "#{subject},#{session},"
   
+    # how many practice quesitons i believe there are 
+    practices = 2
+
     # loop through file and make an array for all of the things we want
     responses = Hash.new
+    responses['Procedure'] 	= []
     responses['First'] 		= []
     responses['Second'] 	= []
     responses['Third'] 		= []
@@ -62,14 +66,15 @@ else
     #end 
   
     responses.each do |item|
-       type = item.first
-       print "#{type}\n"
-       responses[type] = File.open(workingfile).grep(/#{type}/)
-       responses[type].each do |x|
-         x = x.split.last
-         print "#{x},"
-       end
-       print "\n"
+      type = item.first
+      print "#{type}\n"
+      responses[type] = File.open(workingfile).grep(/#{type}/)
+      responses[type].each do |x|
+        x = x.split.last if practices > 0 
+        print "#{x},"
+      end
+      print "\n"
+      practices = practices - 1
     end
   
    # there are 15 questions, so we need to loop over the data that many times, 
