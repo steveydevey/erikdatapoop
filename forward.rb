@@ -2,7 +2,7 @@
 
 #print ARGV[0]
 
-# loop across this to append to csv to get all the stroop files, but for now, one file
+# loop across this to append to csv to get all the forward files, but for now, one file
 workingfile = ARGV[0]
 
 trial = 0
@@ -27,7 +27,7 @@ if File.file?(workingfile)
   
   # grab the first instance of the TrialProcMain line, which is the start of the REAL data
   first_idx = bigpull.index('Procedure: Length4')
-  puts bigpull
+  #puts bigpull
   
   # remove the first chunk of the array before the pieces of info that matter -- this drops all the test data
   bigpull.shift(first_idx)
@@ -47,6 +47,6 @@ if File.file?(workingfile)
   end 
 
   #puts datarecord
-  File.open('stroop_ruby_out.csv', 'a') {|f| f.write(datarecord) }
+  File.open('forward_out.csv', 'a') {|f| f.write(datarecord) }
 
 end
