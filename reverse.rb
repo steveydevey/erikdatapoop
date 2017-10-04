@@ -2,7 +2,7 @@
 
 #print ARGV[0]
 
-# loop across this to append to csv to get all the forward files, but for now, one file
+# loop across this to append to csv to get all the reverse files, but for now, one file
 workingfile = ARGV[0]
 
 trial = 1
@@ -36,6 +36,7 @@ if File.file?(workingfile)
   bigpull.each do |x| 
   # skip the entries that say "Procedure" etc, because they don't actually contain data
     if x =~ /Procedure/ 
+      puts "doing #{subject} and #{session} trial #{trial}"
         datarecord += "\n"
         datarecord += "#{subject},"
         datarecord += "#{session},"
@@ -48,6 +49,6 @@ if File.file?(workingfile)
   end 
 
   #puts datarecord
-  File.open('forward_ruby_out.csv', 'a') {|f| f.write(datarecord) }
+  File.open('reverse_ruby_out.csv', 'a') {|f| f.write(datarecord) }
 
 end
